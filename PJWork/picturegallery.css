@@ -1,0 +1,91 @@
+.container {
+	background-color: gray;
+	width: 100%;
+	height: 200px;
+}
+
+h1, p {
+	text-align: center;
+}
+
+.image {
+	height: 300px;
+	width: 300px;
+	margin-top: 10px;
+	float: left;
+	
+}
+
+.Sub {
+	
+	height:50px;
+	width: 100%;
+	margin-top: 350px;
+}
+
+.image1 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+.image2 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+.image3 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+.image4 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+.image5 {
+	height: 200px;
+	width: 200px;
+	float: left;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+
+ul {
+	float: left;
+	margin-top: 60px;
+}
+
+li {
+	display: inline;
+	margin-left: 275px;
+	
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: white;
+}
+
+
+@media only screen and (max-width: 600px) {
+	h2 {
+		text-align: center;
+	}
+}
